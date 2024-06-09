@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=level_1
+comment1.params=
+comment1.target=level_1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ level_1.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ naiklevel()
+comment4.params=
+comment4.target=void\ lose()
+numComments=5
